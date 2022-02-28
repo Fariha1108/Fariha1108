@@ -38,8 +38,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/fariha-nezami/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:fariha_1990@outlook.de"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/fariha-nezami/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Fariha%20Nezami-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:fariha_1990@outlook.de"><img alt="Email" src="https://img.shields.io/badge/Email-fariha_1990@outlook.de-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [Fariha1108](https://github.com/Fariha1108)
